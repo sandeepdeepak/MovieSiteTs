@@ -16,7 +16,7 @@ const NavComponent = (props: any) => {
 
   const showModal = (e: any) => {
     setShow(!show);
-    if (!show) {
+    if (show) {
       onAddMovie(movieName, movieImgUrl, moviePlot, starring, director, genres);
     }
   };
@@ -113,7 +113,7 @@ const NavComponent = (props: any) => {
               onClick={showModal}
             />
 
-            <ModalComponent onClose={showModal} show={show} title="Add Movie">
+            <ModalComponent onClose={showModal} show={!show} title="Add Movie">
               <h4>Movie name : </h4>
               <input
                 style={{ width: "20rem" }}
@@ -129,11 +129,10 @@ const NavComponent = (props: any) => {
               ></input>
 
               <h4>Movie Plot : </h4>
-              <input
+              <textarea
                 style={{ width: "20rem" }}
-                type="text"
                 onChange={updateMoviePlotInput}
-              ></input>
+              ></textarea>
 
               <h4>Starring : </h4>
               <input
