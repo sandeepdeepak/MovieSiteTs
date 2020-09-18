@@ -9,19 +9,34 @@ const NavComponent = (props: any) => {
   const [show, setShow] = useState(false);
   const [movieName, setMovieName] = useState("");
   const [movieImgUrl, setMovieImgUrl] = useState("");
+  const [moviePlot, setMoviePlot] = useState("");
+  const [starring, setStarring] = useState("");
+  const [director, setDirector] = useState("");
+  const [genres, setGenres] = useState("");
 
   const showModal = (e: any) => {
     setShow(!show);
-    if (show) {
-      onAddMovie(movieName, movieImgUrl);
+    if (!show) {
+      onAddMovie(movieName, movieImgUrl, moviePlot, starring, director, genres);
     }
   };
 
-  const onAddMovie = (movieName: any, movieImageUrl: any) => {
+  const onAddMovie = (
+    movieName: any,
+    movieImageUrl: any,
+    moviePlot: any,
+    starring: any,
+    director: any,
+    genres: any
+  ) => {
     let newMovieList = [...moviePd.moviesList];
     newMovieList.push({
       movieName,
       movieImageUrl,
+      moviePlot,
+      starring,
+      director,
+      genres,
     });
     setMoviePd({ ...moviePd, moviesList: newMovieList });
   };
@@ -32,6 +47,22 @@ const NavComponent = (props: any) => {
 
   const updateMovieImgUrlInput = (event: any) => {
     setMovieImgUrl(event.target.value);
+  };
+
+  const updateMoviePlotInput = (event: any) => {
+    setMoviePlot(event.target.value);
+  };
+
+  const updateStarringInput = (event: any) => {
+    setStarring(event.target.value);
+  };
+
+  const updateDirectorInput = (event: any) => {
+    setDirector(event.target.value);
+  };
+
+  const updateGenres = (event: any) => {
+    setGenres(event.target.value);
   };
 
   const changeIsAdmin = (value: any) => {
@@ -95,6 +126,34 @@ const NavComponent = (props: any) => {
                 style={{ width: "20rem" }}
                 type="text"
                 onChange={updateMovieImgUrlInput}
+              ></input>
+
+              <h4>Movie Plot : </h4>
+              <input
+                style={{ width: "20rem" }}
+                type="text"
+                onChange={updateMoviePlotInput}
+              ></input>
+
+              <h4>Starring : </h4>
+              <input
+                style={{ width: "20rem" }}
+                type="text"
+                onChange={updateStarringInput}
+              ></input>
+
+              <h4>Director : </h4>
+              <input
+                style={{ width: "20rem" }}
+                type="text"
+                onChange={updateDirectorInput}
+              ></input>
+
+              <h4>Genres : </h4>
+              <input
+                style={{ width: "20rem" }}
+                type="text"
+                onChange={updateGenres}
               ></input>
             </ModalComponent>
           </div>

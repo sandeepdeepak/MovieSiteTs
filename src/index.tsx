@@ -7,13 +7,34 @@ import MovieListComponent from "./components/MovieListComponent/movieList";
 import { moviesList } from "./mock-data/moviesListMock";
 import { MovieProvider } from "./movieContext";
 
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link,
+  Redirect,
+} from "react-router-dom";
+import MovieDescriptionComponent from "./components/MovieDescription/movieDescription";
+
 ReactDOM.render(
-  <React.StrictMode>
-    <MovieProvider>
-      <NavComponent />
-      <MovieListComponent />
-    </MovieProvider>
-  </React.StrictMode>,
+  <Router>
+    <React.StrictMode>
+      <MovieProvider>
+        <NavComponent />
+        <Switch>
+          <Route path="/movies-list">
+            <MovieListComponent />
+          </Route>
+          <Route path="/movie-description">
+            <MovieDescriptionComponent />
+          </Route>
+          <Route>
+            <Redirect to="/movies-list" />
+          </Route>
+        </Switch>
+      </MovieProvider>
+    </React.StrictMode>
+  </Router>,
   document.getElementById("root")
 );
 

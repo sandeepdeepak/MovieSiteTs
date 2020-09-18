@@ -20,7 +20,12 @@ const MovieComponent = (props: any) => {
 
   return (
     <div className="movie">
-      <img className="movie-image" src={props.imgSrc} />
+      <input
+        type="image"
+        className="movie-image"
+        src={props.imgSrc}
+        onClick={props.onClick}
+      />
       {/* <LazyLoadImage className="movie-image" src={props.imgSrc} effect="blur" /> */}
       <h4 className="movie-name">{props.movieName}</h4>
       {moviePd.isAdmin && (
