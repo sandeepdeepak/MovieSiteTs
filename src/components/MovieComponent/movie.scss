@@ -22,6 +22,12 @@
 }
 
 .movie-name {
-  margin-left: 2rem;
   color: #ddd;
+  display: flex;
+  justify-content: center;
+}
+
+.delete-button-placement {
+  display: flex;
+  justify-content: center;
 }
