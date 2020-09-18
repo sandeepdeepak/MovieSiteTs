@@ -1,11 +1,16 @@
 import React, { Component, useContext } from "react";
 import "./movieDescription.scss";
+import { withRouter } from "react-router-dom";
 
 import { MovieContext } from "../../movieContext";
 import MovieComponent from "../MovieComponent/movie";
 
 const MovieDescriptionComponent = (props: any) => {
   const [moviePd, setMoviePd] = useContext(MovieContext);
+
+  if (!moviePd.selectedMovie.movieName) {
+    props.history.push("/movie-list");
+  }
 
   return (
     <div className="movieDesc">
@@ -31,4 +36,4 @@ const MovieDescriptionComponent = (props: any) => {
     </div>
   );
 };
-export default MovieDescriptionComponent;
+export default withRouter(MovieDescriptionComponent);

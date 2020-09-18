@@ -17,6 +17,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -26,6 +27,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -35,6 +37,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -44,6 +47,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -53,6 +57,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -62,6 +67,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -71,6 +77,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -80,6 +87,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -89,6 +97,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -98,6 +107,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -107,6 +117,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -116,6 +127,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -125,6 +137,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -134,6 +147,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -143,6 +157,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -152,6 +167,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -161,6 +177,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -170,6 +187,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -179,6 +197,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -188,6 +207,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -197,6 +217,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -206,6 +227,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -215,6 +237,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -224,6 +247,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -233,6 +257,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -242,6 +267,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -251,6 +277,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -260,6 +287,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -269,6 +297,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -278,6 +307,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -287,6 +317,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -296,6 +327,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -305,6 +337,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -314,6 +347,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -323,6 +357,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -332,6 +367,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -341,6 +377,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -350,6 +387,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -359,6 +397,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -368,6 +407,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -377,6 +417,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -386,6 +427,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -395,6 +437,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
       {
@@ -404,6 +447,7 @@ export const MovieProvider = (props: any) => {
         moviePlot:
           "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. Starring: Robert Downey Jr. Robert Downey Jr. Chris Evans Director: Anthony Russo Genres: Action, Adventure, Fantasy, Sci-Fi",
         starring: "Robert Downey Jr. Robert Downey Jr. Chris Evans",
+        director: "Jeff Fowler",
         genres: "Action, Adventure, Fantasy, Sci-Fi",
       },
     ],
