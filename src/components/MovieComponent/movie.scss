@@ -1,0 +1,26 @@
+.movie {
+  display: flex;
+  flex-direction: column;
+}
+
+.movie-image {
+  height: 16rem;
+  width: 11rem;
+  margin: 2rem 1rem;
+}
+
+.movie-image:hover {
+  filter: saturate(200%) !important;
+  transition: 0.2s;
+  z-index: 1;
+}
+
+.movie-image:hover {
+  height: 18rem;
+  width: 12rem;
+  margin: 1rem 0.5rem;
+}
+
+.movie-name {
+  color: #ddd;
+}
